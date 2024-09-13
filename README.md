@@ -24,6 +24,8 @@ I am a full stack devlopper
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/html.png?raw=true" alt="html"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/css.png?raw=true" alt="CSS"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/javascript.png?raw=true" alt="javascript"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/python.png?raw=true" alt="javascript"></code>
+
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/Docker.png?raw=true" alt="Docker"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/SSH.png?raw=true" alt="SHH"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/visualstudio.png?raw=true" alt="Visual Studio Code"></code>
