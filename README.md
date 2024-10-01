@@ -53,7 +53,7 @@ I am a full stack devlopper
 -->
 
 ### 📫 How to reach me:
-- Email: aimeric.rouyer@epitech.eu
+- Email: aimeric.rouyer@gmail.com
 - Discord : ciremia1893
 - Instagram : @lespremicesdederek
 - LinkedIn: https://www.linkedin.com/in/aimeric-rouyer-12a1881a2/
