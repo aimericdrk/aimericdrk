@@ -20,7 +20,6 @@ I am a full stack devlopper
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/nodejs.png?raw=true" alt="nodejs"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/SQL.png?raw=true" alt="SQL"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongodb.png?raw=true" alt="mongodb"></code>
-<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongocompass.png?raw=true" alt="mongodbcompass"><code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/googleCloudRun.png?raw=true" alt="cloudRun"></code>
 
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/django.png?raw=true" alt="django"></code>
@@ -32,7 +31,6 @@ I am a full stack devlopper
 
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/Docker.png?raw=true" alt="Docker"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/SSH.png?raw=true" alt="SHH"></code>
-<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/visualstudio.png?raw=true" alt="Visual Studio Code"></code>
 
 
 <!--
