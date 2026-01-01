@@ -54,6 +54,14 @@ I am a full stack devlopper
 </table>
 -->
 
+<h3 align="center">💼 Full‑time CTO — AtCLUB</h3>
+
+<p align="center">
+  <img src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/AtClub-Icon.png?raw=true" alt="AtCLUB logo" width="160" />
+</p>
+
+<p align="center"><em>Leading product, tech strategy, and engineering to build scalable web & mobile experiences.</em></p>
+
 ### 📫 How to reach me:
 - Email: aimeric.rouyer@gmail.com
 - Discord : ciremia1893
@@ -63,5 +71,5 @@ I am a full stack devlopper
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Open to collaboration on projects related to NodeJS or Website in general.</i>
+  <i>Let's connect and chat! Open to collaboration on projects related to NestJS/flutter/reactJS/mongo or Website in general.</i>
 </p>
