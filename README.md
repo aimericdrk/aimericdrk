@@ -12,16 +12,16 @@ I am a full stack devlopper
 - IA generative learning
 
 ### 💼 Technologies and Tools:
-<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/flutter.png?raw=true" alt="C"></code>
-<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/nestJS.png?raw=true" alt="C"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/flutter.png?raw=true" alt="flutter"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/nestJS.png?raw=true" alt="nestJS"></code>
 
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/C.png?raw=true" alt="C"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/CPP.png?raw=true" alt="CPP"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/nodejs.png?raw=true" alt="nodejs"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/SQL.png?raw=true" alt="SQL"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongodb.png?raw=true" alt="mongodb"></code>
-<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongocompass.png?raw=true" alt="mongodb compass"><code>
-<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/googleCloudRun.png?raw=true" alt="C"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongocompass.png?raw=true" alt="mongodbcompass"><code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/googleCloudRun.png?raw=true" alt="cloudRun"></code>
 
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/django.png?raw=true" alt="django"></code>
 <code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/reactjs.png?raw=true" alt="reactJS"></code>
